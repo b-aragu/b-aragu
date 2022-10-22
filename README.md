@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @b-aragu
+- 👋 Hi, I’m baragu a 18 year old Kenyan boy
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning computer science at Multimedia University of Kenya
 - 💞️ I’m looking to collaborate on creating projects that will teach me new skills and make me getting a living out of it
