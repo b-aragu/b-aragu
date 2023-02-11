@@ -1,4 +1,4 @@
-![logo](https://github.com/b-aragu/b-aragu/blob/main/WhatsApp%20Image%202022-12-29%20at%207.32.45%20PM.jpeg)
+![logo](https://github.com/b-aragu/b-aragu/blob/main/logo.png)
 <h1 align="center">Hi 👋, I'm Antony Baragu</h1>
 <h3 align="center">A passionate Software Engineer from Kenya </h3>
 
