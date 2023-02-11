@@ -21,10 +21,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/b-aragu/b-aragu/blob/main/Screenshot%20from%202023-02-12%2002-43-16.png" alt="cplusplus" width="40" height="40"/> </a> 
+ <a href="https://www.ubuntu.org" target="_blank" rel="noreferrer"> <img src="https://github.com/b-aragu/b-aragu/blob/main/Screenshot%20from%202023-02-12%2002-43-16.png" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.blender.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="blender" width="40" height="40"/> </a> 
  <a href="https://www.alxafrica.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPydmdkBgbaRi8nghoWy-wXyN0EWpBhZf7xSQ3ClWwlVWuLKMNqWrhWX-FP8xlg7JOLY0&usqp=CAU" alt="alx" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux os" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="linux os" width="40" height="40"/> </a>
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="linux os" width="40" height="40"/> </a>
+</p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://twitter.com/b_aragu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="baragur" /></a></p><br><br>
