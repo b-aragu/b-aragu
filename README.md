@@ -25,7 +25,7 @@ Here are some of my notable projects:
 You can connect with me on LinkedIn or Twitter:
 
 [<img align="left" alt="LinkedIn" width="32px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/antony-baragu/)
-[<img align="left" alt="Twitter" width="32px" src="https://img.icons8.com/color/48/000000/twitter.png" />](https://twitter.com/antonybaragu)
+[<img align="left" alt="Twitter" width="32px" src="https://img.icons8.com/ios/1x/twitter--v3.gif" />](https://twitter.com/antonybaragu)
 
 <!--
 **antonybaragu/antonybaragu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
