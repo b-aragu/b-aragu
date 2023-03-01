@@ -20,12 +20,12 @@ Here are some of my notable projects:
 - [Project 2](https://b-aragu.github.io/smile-/): A simple smiley positivity website .
 
 
-### Contact Me [<img align="left" alt="contact" width="32px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://linkedin.com/in/antony-baragu-5a4228252)
+### Contact Me [<img align="left" alt="contact" width="32px" src="src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-social-network-social-media-agency-flaticons-lineal-color-flat-icons.png" />](https://linkedin.com/in/antony-baragu-5a4228252)
 
 You can connect with me on LinkedIn or Twitter:
 
 [<img align="left" alt="LinkedIn" width="32px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://linkedin.com/in/antony-baragu-5a4228252)
-[<img align="left" alt="Twitter" width="32px" src="https://img.icons8.com/dotty/80/null/twitter.svg" />](https://twitter.com/b_aragu)
+[<img align="left" alt="Twitter" width="32px" src="https://img.icons8.com/stickers/100/null/twitter.png" />](https://twitter.com/b_aragu)
 
 <!--
 **antonybaragu/antonybaragu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
