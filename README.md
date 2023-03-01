@@ -20,7 +20,7 @@ Here are some of my notable projects:
 - [Project 2](https://b-aragu.github.io/smile-/): A simple smiley positivity website .
 
 
-### Contact Me [<img align="left" alt="contact" width="32px" src="src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-social-network-social-media-agency-flaticons-lineal-color-flat-icons.png" />](https://linkedin.com/in/antony-baragu-5a4228252)
+### Contact Me [<img align="left" alt="contact" width="32px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-social-network-social-media-agency-flaticons-lineal-color-flat-icons.png" />](https://wa.link/zpj74r)
 
 You can connect with me on LinkedIn or Twitter:
 
