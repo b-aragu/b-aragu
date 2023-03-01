@@ -1,12 +1,12 @@
 <!-- Banner -->
 ![Banner](https://b-aragu.github.io/profile-card/Screenshot%20from%202023-02-19%2009-27-34.png)
 
-## Hi there, I'm Antony 👋
+## Hi there, I'm Antony Baragu👋
 
 I'm a computer science student at Multimedia University of Kenya with a passion for coding and problem-solving. I'm always looking for new challenges and opportunities to learn and grow my skills.
 
 ### Skills
-
+Am in the process  of learning  the following:
 - Programming languages: C++, Python, Java, JavaScript
 - Web development: HTML, CSS, Bootstrap, React
 - Database: MySQL, MongoDB
@@ -16,16 +16,16 @@ I'm a computer science student at Multimedia University of Kenya with a passion 
 
 Here are some of my notable projects:
 
-- [Project 1](https://github.com/antonybaragu/project1): A web app for managing customer orders using React and MongoDB.
-- [Project 2](https://github.com/antonybaragu/project2): A command-line tool for analyzing Twitter data using Python and the Twitter API.
-- [Project 3](https://github.com/antonybaragu/project3): A machine learning model for predicting stock prices using Python and scikit-learn.
+- [My profile card](https://github.com/b-aragu/profile-card): A simple HTML CSS profile card.
+- [Project 2](https://b-aragu.github.io/smile-/): A simple smiley positivity website .
 
-### Contact Me
+
+### Contact Me [<img align="left" alt="contact" width="32px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://linkedin.com/in/antony-baragu-5a4228252)
 
 You can connect with me on LinkedIn or Twitter:
 
-[<img align="left" alt="LinkedIn" width="32px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/antony-baragu/)
-[<img align="left" alt="Twitter" width="32px" src="https://img.icons8.com/dotty/80/null/twitter.svg" />](https://twitter.com/antonybaragu)
+[<img align="left" alt="LinkedIn" width="32px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://linkedin.com/in/antony-baragu-5a4228252)
+[<img align="left" alt="Twitter" width="32px" src="https://img.icons8.com/dotty/80/null/twitter.svg" />](https://twitter.com/b_aragu)
 
 <!--
 **antonybaragu/antonybaragu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
