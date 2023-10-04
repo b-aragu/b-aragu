@@ -3,16 +3,7 @@
 
 ## Hi there, I'm Antony Baragu👋
 
-I'm a computer science student at Multimedia University of Kenya with a passion for coding and problem-solving. I'm always looking for new challenges and opportunities to learn and grow my skills.
-
-### Skills
-Am in the process  of learning  the following:
-- Programming languages: C++, Python, Java, JavaScript
-- Web development: HTML, CSS, Bootstrap, React
-- Database: MySQL, MongoDB
-- Operating Systems: Windows, Linux
-
-### Projects
+I'm a passionate computer science student with a knack for turning lines of code into innovative solutions. My toolbox includes languages like Python and Java, and I'm well-versed in creating dynamic websites using HTML, CSS, and JavaScript. I thrive on tackling complex problems, armed with a strong understanding of data structures and algorithms. Whether it's crafting elegant software, diving into databases, or collaborating in a team, I'm here to bring your tech dreams to life. Let's code the future together!
 
 Here are some of my notable projects:
 
