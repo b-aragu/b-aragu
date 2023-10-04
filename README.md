@@ -3,7 +3,7 @@
 
 ## Hi there, I'm Antony Baragu👋
 
-<span style="font-family: 'Courier New', monospace; letter-spacing: .2em;">
+<span style="font-family: 'Courier New', monospace; letter-spacing: .6em;">
 I'm a passionate computer science student with a knack for turning lines of code into innovative solutions. My toolbox includes languages like Python and Java, and I'm well-versed in creating dynamic websites using HTML, CSS, and JavaScript. I thrive on tackling complex problems, armed with a strong understanding of data structures and algorithms. Whether it's crafting elegant software, diving into databases, or collaborating in a team, I'm here to bring your tech dreams to life. Let's code the future together!
 </span>
 
