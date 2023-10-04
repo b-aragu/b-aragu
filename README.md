@@ -8,10 +8,10 @@ I'm a passionate computer science student with a knack for turning lines of code
 </span>
 
 
-Here are some of my notable projects:
+
 
 - [My profile card](https://github.com/b-aragu/profile-card): A simple HTML CSS profile card.
-- [Project 2](https://b-aragu.github.io/smile-/): A simple smiley positivity website .
+
 
 
 ### Contact Me [<img align="left" alt="contact" width="32px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-social-network-social-media-agency-flaticons-lineal-color-flat-icons.png" />](https://wa.link/zpj74r)
