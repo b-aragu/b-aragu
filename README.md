@@ -10,7 +10,7 @@ I'm a passionate computer science student with a knack for turning lines of code
 
 
 
-- [My profile card](https://github.com/b-aragu/profile-card): A simple HTML CSS profile card.
+- [My profile card](https://b-aragu.github.io/profile-card/): A simple HTML CSS profile card.
 
 
 
