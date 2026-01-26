@@ -35,6 +35,7 @@
 
 ---
 
+### 🗂️ Profile Summary
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b-aragu&theme=radical" alt="Summary Card" />
+  <img src="https://github.com/b-aragu/b-aragu/blob/master/profile-summary-card-output/radical/0-contact.png" alt="Summary Card" />
 </p>
