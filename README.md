@@ -16,10 +16,7 @@
 
 ---
 
-### 🏆 Achievements
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=b-aragu&theme=radical&column=4&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
----
 
 ### 📊 Vital Stats
 <p align="left">
@@ -35,7 +32,3 @@
 
 ---
 
-### 🗂️ Profile Summary
-<p align="center">
-  <img src="https://github.com/b-aragu/b-aragu/blob/master/profile-summary-card-output/radical/0-contact.png" alt="Summary Card" />
-</p>
