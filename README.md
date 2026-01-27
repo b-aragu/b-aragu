@@ -28,7 +28,7 @@
 
 ### 🔗 Let's Connect
 [![Twitter/X](https://img.shields.io/badge/Twitter-X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/B_aragu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Me-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://minimalist-cv.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Me-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://baragu.netlify.app)
 
 ---
 
