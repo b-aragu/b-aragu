@@ -1,34 +1,77 @@
-# 🚀 Antony | Computer Scientist & AI Explorer
+# Antony Baragu
 
-**Exploring the limits of AI-driven development and real innovation.**
+**Software Engineer · Founder · Independent Builder**
 
----
+I build software, digital products and businesses around real-world problems.
 
-### 🛠️ The Tech Stack
-* **Languages:** `Python` | `JavaScript` | `TypeScript` | `React` 
-* **AI Tools:** `Claude Code` | `Factory AI` | `Google Antigravity`
-* **Current Status:** 🔍 Researching autonomous agents and experimenting with **Vibecoding**—leveraging AI to ship at the speed of thought.
+My work spans full-stack engineering, applied AI, intelligent information retrieval and digital product development. I enjoy taking ideas from a problem or an early concept to something people can actually use.
 
----
+Based in Nairobi, Kenya.
 
-### 🐍 Contribution Snake
-![snake gif](https://github.com/b-aragu/b-aragu/blob/output/github-contribution-grid-snake.svg)
+[Portfolio](https://baragu.netlify.app) · [LinkedIn](https://www.linkedin.com/in/baragu/) · [X](https://x.com/b_aragu)
 
 ---
 
+### Selected Work
 
+**[UniArchive](https://github.com/b-aragu/UniArchive)**  
+An intelligent academic document retrieval system combining OCR, semantic search and hybrid information retrieval. Built with Python, PostgreSQL, OpenCV, Sentence-BERT and FAISS.
 
-### 📊 Vital Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=b-aragu&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Antony's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-aragu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
-</p>
+**[Mdaftari](https://github.com/b-aragu/Mdaftari)**  
+An offline-first financial ledger for tracking M-Pesa transactions, partial payments and outstanding balances. Built with React and TypeScript.
+
+**[365](https://github.com/b-aragu/365)**  
+A minimalist mobile journaling application for capturing daily memories and habits. Built with React Native, Expo and TypeScript.
+
+**[Zuri Estates](https://zuriestates.com)** · **[Sienna Paints](https://siennapaints.com)**  
+Businesses I founded, with hands-on involvement in their digital infrastructure, product experiences, information architecture and organic search presence.
 
 ---
 
-### 🔗 Let's Connect
-[![Twitter/X](https://img.shields.io/badge/Twitter-X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/B_aragu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Me-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://baragu.netlify.app)
+### What I Work With
+
+**Languages**  
+Python · JavaScript · TypeScript · C · C++
+
+**Web & Application Development**  
+React · Next.js · Astro · Node.js · Flask · React Native · Expo
+
+**Data & Intelligent Systems**  
+PostgreSQL · MongoDB · Sanity · OCR · NLP · Semantic Search · FAISS
+
+**Engineering Tools**  
+Git · Linux · Claude Code · Codex · Google Antigravity
 
 ---
 
+### Beyond Software
+
+I enjoy exploring the intersection of technology and business: building companies, understanding customers, developing products, sales, marketing and finding practical ways to bring ideas to market.
+
+I'm also experimenting with generative media and multimodal workflows across image, video, 3D and audio, exploring tools and open-source models through ecosystems such as Hugging Face.
+
+---
+
+### Education
+
+**BSc Computer Science**  
+Multimedia University of Kenya · 2022–2026
+
+**Software Engineering Programme**  
+ALX · 2023–2024
+
+---
+
+### A Few Things I Believe
+
+Build useful things.  
+Understand the problem before writing the solution.  
+Ownership compounds.  
+Technology is leverage.  
+The best work speaks for itself.
+
+---
+
+**Building from Nairobi. Thinking beyond borders.**
+
+[Explore my work](https://baragu.netlify.app) · [GitHub](https://github.com/b-aragu) · [Get in touch](https://www.x.com/b_aragu/)
